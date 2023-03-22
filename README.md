@@ -12,3 +12,5 @@ pyenv activate deta
 pyenv system shell
 or 
 pyenv global system
+
+## Run Flask app
