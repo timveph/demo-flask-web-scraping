@@ -14,3 +14,5 @@ or
 pyenv global system
 
 ## Run Flask app
+export FLASK_APP=app
+export FLASK_ENV=development
