@@ -5,9 +5,9 @@ Course: https://reachplc.udemy.com/course/webscrape/
 
 ## Set up a virtual environment 
 ### Create
-pyenv virtualenv 3.10.9 deta
+pyenv virtualenv 3.10.9 flask
 ### Activate
-pyenv activate deta
+pyenv activate flask
 ### Deactivate
 pyenv system shell
 or 
